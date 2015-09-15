@@ -1,0 +1,17 @@
+disabledAI = true;
+respawn = BASE;
+respawndelay = 25;
+author = "PMC-Tyler";
+OnLoadName = "CQC Kavala";
+OnLoadMission = "Small scale PvP in Kavala";
+debriefing = 0;
+class Header
+{
+gameType = SC;
+minPlayers = 1;
+maxPlayers = 60;
+};
+class CfgFunctions
+{
+#include "scripts\PMCT_Functions.hpp"
+};
