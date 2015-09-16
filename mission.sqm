@@ -2205,7 +2205,7 @@ class Mission
 						items=10;
 						class Item0
 						{
-							value="10";
+							value="15";
 							parentCls="ModuleRespawnVehicle_F";
 							typeName="Delay";
 						};
@@ -2241,7 +2241,7 @@ class Mission
 						};
 						class Item6
 						{
-							value="2";
+							value="1";
 							parentCls="ModuleRespawnVehicle_F";
 							typeName="Wreck";
 						};
@@ -3415,13 +3415,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="250";
+							value="1000";
 							parentCls="ModuleRespawnTickets_F";
 							typeName="WEST";
 						};
 						class Item1
 						{
-							value="250";
+							value="1000";
 							parentCls="ModuleRespawnTickets_F";
 							typeName="EAST";
 						};
